@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.debounce = void 0;
-// debounce.ts
+
 function debounce(fn, delay) {
     var timeout;
     return function () {

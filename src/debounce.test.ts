@@ -1,4 +1,3 @@
-// debounce.test.ts
 import { debounce } from './debounce';
 
 
