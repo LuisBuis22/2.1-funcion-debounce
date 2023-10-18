@@ -19,4 +19,3 @@ function saludo() {
 
 const debounceSaludo = debounce(saludo, 2000);
 
-debounceSaludo();
